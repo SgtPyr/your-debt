@@ -65,7 +65,7 @@ const paymentMethods = {
 
     tiktok: {
         name: "TikTok",
-        subtitle: "Follow me on TikTok.",
+        subtitle: "You already know where to find me.",
         icon: "♪",
         iconClass: "tiktok-icon",
         qr: "images/tiktok-qr.png",
